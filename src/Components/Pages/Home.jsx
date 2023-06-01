@@ -13,9 +13,7 @@ function Home() {
                 alignItems="flex-start"
                 spacing={8}
             >
-                <Heading as="h1" alignContent='center' marginLeft='auto' marginRight='auto'>
-                    Welcome To Agro India
-                </Heading>
+
                 <Box
                     display="grid"
                     gridTemplateColumns="repeat(2,minmax(0,1fr))"
