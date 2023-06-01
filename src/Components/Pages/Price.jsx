@@ -2,7 +2,7 @@ import { useState } from "react";
 
 import Land from "./Land";
 import Time from "./Time";
-import Crops from "./Crops";
+import Crops from "../Data/Crops";
 
 const Price = ({ price, time, land, count }) => {
 

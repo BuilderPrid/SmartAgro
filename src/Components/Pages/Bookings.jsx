@@ -1,7 +1,6 @@
-import FullScreenSection from "./FullScreenContent"
+import FullScreenSection from "../Layouts/FullScreenContent"
 import { Button, Grid, GridItem, Text, ButtonGroup } from "@chakra-ui/react"
 import BookCrops from "./BookCrops"
-import Time from "./Time"
 import Price from "./Price"
 import { useState } from "react"
 function Bookings() {

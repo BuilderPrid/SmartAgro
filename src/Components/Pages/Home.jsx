@@ -1,7 +1,7 @@
 
 import { Box, Button, ButtonGroup, HStack, Heading, Link } from '@chakra-ui/react'
-import FullScreenSection from './FullScreenContent'
-import LinkButton from './LinkButton';
+import FullScreenSection from '../Layouts/FullScreenContent'
+import LinkButton from '../Utils/LinkButton';
 function Home() {
 
     return (

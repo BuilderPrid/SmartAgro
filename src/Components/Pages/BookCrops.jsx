@@ -1,7 +1,7 @@
 import React from "react";
 import CropItem from "./CropItem";
 import { Box, Heading, Divider, Checkbox, Flex } from "@chakra-ui/react";
-import Crops from "./Crops";
+import Crops from "../Data/Crops";
 const BookCrops = ({ onChildChange }) => {
 
     function handleChange(index) {
